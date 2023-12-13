@@ -291,7 +291,11 @@ input[type="submit"]:hover {
 }
 
 #map {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     margin-bottom: 20px;
+
 }
 
 #map img {
