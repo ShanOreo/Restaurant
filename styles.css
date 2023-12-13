@@ -152,21 +152,33 @@ video {
 }
 
 /* Menu Section styles */
-main#menu {
-    display: flex;
+#menu {
+    display: inline-block;
     flex-wrap: wrap;
     justify-content: space-around;
+}
+
+.menu-item {
+    width: 48%; /* Adjust as needed based on your layout preferences */
+    margin-bottom: 20px;
+    box-sizing: border-box;
+}
+
+.image {
+    width: 50%;
+    height: auto;
+    border-radius: 8px; /* Optional: Add rounded corners to the images */
 }
 
 /* Gallery Section styles */
-main#gallery {
+#gallery {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: left;
 }
 
-.image{
-    max-width: 50%; /* Adjust the maximum width to control the size of the images */
+.image-gallery{
+    max-width: 10%; /* Adjust the maximum width to control the size of the images */
     height: auto;
     border-radius: 8px; /* Optional: Add rounded corners to the images */
 }
