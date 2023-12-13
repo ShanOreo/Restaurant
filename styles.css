@@ -171,6 +171,7 @@ video {
 }
 
 /* Gallery Section styles */
+
 #gallery {
     display: flex;
     flex-wrap: wrap;
