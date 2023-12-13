@@ -179,15 +179,15 @@ main#gallery {
 }
 
 .gallery-item {
-    width: 40%; /* Adjust as needed based on your layout preferences */
+    width: 40%; 
     margin-bottom: 20px;
     box-sizing: border-box;
 }
 
 .gallery-item img{
-    max-width: 100%; /* Adjust the maximum width to control the size of the images */
+    max-width: 100%; 
     height: auto;
-    border-radius: 8px; /* Optional: Add rounded corners to the images */
+    border-radius: 8px; 
 }
 
 
