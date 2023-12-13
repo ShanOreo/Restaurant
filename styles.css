@@ -201,10 +201,11 @@ main#about {
     position: relative;
 }
 
-.intro-section img {
+.pinoy {
     max-width: 100%;
     height: auto;
     border-radius: 8px; 
+    margin-bottom: 40px;
 }
 
 .intro-section h1, .intro-section p {
