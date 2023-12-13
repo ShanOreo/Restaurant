@@ -159,7 +159,7 @@ video {
 }
 
 .menu-item {
-    width: 48%; /* Adjust as needed based on your layout preferences */
+    width: 48%; 
     margin-bottom: 20px;
     box-sizing: border-box;
 }
@@ -167,7 +167,7 @@ video {
 .image {
     width: 50%;
     height: auto;
-    border-radius: 8px; /* Optional: Add rounded corners to the images */
+    border-radius: 8px; 
 }
 
 /* Gallery Section styles */
@@ -178,9 +178,9 @@ video {
 }
 
 .image-gallery{
-    max-width: 10%; /* Adjust the maximum width to control the size of the images */
+    max-width: 10%; 
     height: auto;
-    border-radius: 8px; /* Optional: Add rounded corners to the images */
+    border-radius: 8px; 
 }
 
 /* About Us Section styles */
@@ -204,7 +204,7 @@ main#about {
 .intro-section img {
     max-width: 100%;
     height: auto;
-    border-radius: 8px; /* Optional: Add rounded corners to the image */
+    border-radius: 8px; 
 }
 
 .intro-section h1, .intro-section p {
@@ -212,8 +212,8 @@ main#about {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: #FFF; /* White text color for better visibility */
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8); /* Optional: Add a subtle text shadow */
+    color: #FFF; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8); 
 }
 
 .about-content {
