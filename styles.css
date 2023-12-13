@@ -165,12 +165,6 @@ main#gallery {
     justify-content: space-around;
 }
 
-.gallery-item {
-    width: 30%; /* Adjust as needed based on your layout preferences */
-    margin-bottom: 20px;
-    box-sizing: border-box;
-}
-
 .image{
     max-width: 50%; /* Adjust the maximum width to control the size of the images */
     height: auto;
